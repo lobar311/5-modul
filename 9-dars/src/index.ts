@@ -17,7 +17,6 @@ const renderCatigories = () => {
         <img src="${item.image}" alt="" class="w-100 rounded">
         <div class=" d-flex justify-content-between p-2">
         <p class= "fw-bold">${item.name}</p>
-        <i class="fa-solid fa-basket-shopping"></i>
         </div>
         `;
 
